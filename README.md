@@ -1,2 +1,2 @@
-# SamClass-test
-Sistema de monitoramento de atividades
+# Samuel-class
+Sistema de gestão pedagógica 
